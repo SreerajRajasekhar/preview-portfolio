@@ -13,6 +13,7 @@ A Passionate, Self-Taught Game Designer from Kerala, India. Driven To Explore Th
 
 ## Projects
 
-### Work Experience
-#### June 2024 - Present
-Associate Game Designer @ Knifecake Studios
+## Contact
+**Mobile Number :** (+91) 9747135142
+**Email ID :** sreerajkrajasekhar@gmail.com
+**LinkedIN :** linkedin.com/in/sreeraj-kr/
