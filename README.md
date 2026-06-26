@@ -1,4 +1,4 @@
-# Game Designer
+# Sreeraj Rajasekhar
 
 A Passionate, Self-Taught Game Designer, Driven To Explore The Untapped Potential of Video Games and Push Creative Boundaries.
 
