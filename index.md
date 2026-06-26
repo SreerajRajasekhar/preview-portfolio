@@ -1,7 +1,7 @@
 # Sreeraj Rajasekhar
 
 A Passionate, Self-Taught Game Designer from Kerala, India. Driven To Explore The Untapped Potential of Video Games and Push Creative Boundaries.
-[Read More...](./About.md).
+[Read More...](./About).
 
 ## Skills
 - Systems Design
