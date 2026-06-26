@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-description: Know more about me.
+description: Read More...
 ---
 With 3 years of experience, I strongly believe that gameplay and moment-to-moment player interaction are key to creating a great player experience. Mechanics should be designed in such a way that players want to return and enjoy every second, never feeling that their time has been wasted.
 
