@@ -15,18 +15,18 @@ When I’m not developing games, I enjoy reading books, watching movies, listeni
 
 ## Work Experience
 
-### Associate Game Designer
+### Associate Game Designer - Knifecake Studios - Remote - Kerala, India
 #### June 2024 - Present
 * Contributed to the development and QA of multiple hyper-caual puzzle games, applying game amd level design expertise.
 * Gained foundational knowledge of game economy design and created an economy system for an internal project.
 * Spearheaded two new projects, owning core features and leading cross-functional teams from prototype to successful release.
 
-### Associate Game Designer
-#### September 2022 - October 2023
+### Associate Game Designer - Tiltlabs Consultancy Service Pvt LTD - Onsite - Kerala, India
+#### September 2022 - October 2023 
 * Led a small team in the developement of multiple hyper-casual games for a reputable publisher.
 * Applied technical expertise to identify and resolve multiple technical bugs during development.
 
-### Junior Game Designer (Internship)
+### Junior Game Designer - Ether Games Pvt Ltd - Remote - Kerala, India (Internship)
 #### September 2020 - September 2022
 * Enhanced level design skills by creating two playable levels for a multiplayer shooter game.
 * Used Unity Engine and C# to build rapid prototypes and optimize games for target devices.
