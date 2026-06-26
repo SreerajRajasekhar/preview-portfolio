@@ -1,19 +1,36 @@
 ---
 layout: default
 title: About
-description: This is just another page
+description: Know more about me.
 ---
-With 3 years of experience and my knowledge, i srongly belive that gameplay or the interaction that the player is performing at all time is key to a greate experience for the player, mechanics should be designed in such a way that, players should come back and have fun every single frame that they are passing through and never made theme to think that they wasted their precious time. Consequently, i decided to shift my focus into System Design, in conjunction with Experience Design, Gameplay Design, and Technical Design, i belive that this combo would allow me to design a memorable fun experience throught a game to my players. I've hands-on experience with hyper-casual and casual game, which are created using Unity Engine and C#. 
+With 3 years of experience, I strongly believe that gameplay and moment-to-moment player interaction are key to creating a great player experience. Mechanics should be designed in such a way that players want to return and enjoy every second, never feeling that their time has been wasted.
 
-Although i'm not an expert at programming, i'm able to read and write a bit of C# code in Unity Engine, and i'm expanding my skills into Unreal Engine and C++.
+Consequently, I decided to shift my focus toward System Design, in conjunction with Experience Design, Gameplay Design, and Technical Design. I believe this combination allows me to create memorable and engaging experiences for players.
 
-When i'm not developing games, i would like to read books, watch movies, lisen to song, and eat. 
+I have hands-on experience developing hyper-casual and casual games using the Unity Engine and C#.
+
+While I am not yet an expert in programming, I am comfortable reading and writing C# code in Unity, and I am currently expanding my skills into Unreal Engine and C++.
+
+When I’m not developing games, I enjoy reading books, watching movies, listening to music, and exploring food.
 
 ## Work Experience
 
 ### Associate Game Designer
-#### Jun 2024 - Present
+#### June 2024 - Present
+* Contributed to the development and QA of multiple hyper-caual puzzle games, applying game amd level design expertise.
+* Gained foundational knowledge of game economy design and created an economy system for an internal project.
+* Spearheaded two new projects, owning core features and leading cross-functional teams from prototype to successful release.
 
+### Associate Game Designer
+#### September 2022 - October 2023
+* Led a small team in the developement of multiple hyper-casual games for a reputable publisher.
+* Applied technical expertise to identify and resolve multiple technical bugs during development.
+
+### Junior Game Designer (Internship)
+#### September 2020 - September 2022
+* Enhanced level design skills by creating two playable levels for a multiplayer shooter game.
+* Used Unity Engine and C# to build rapid prototypes and optimize games for target devices.
+* Wrote and maintained Game Design Documents.
 
 
 [back](./)
